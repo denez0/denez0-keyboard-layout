@@ -9,10 +9,14 @@ It took me 1 month of an hour a day practice to start typing really fast.
 I have used it only on Windows and Linux, so there are some ways which worked for me:
 
 Windows
-- open setup.exe in extracted deniz0_Win.zip
+- run setup.exe in extracted deniz0_Win.zip
 - use deniz0.klc with keyboard layout creator tool yourself
 - manual key remapping with PowerToys if you don't have the ability to install previous 2 options
 - VIA
 
 Linux
-- files (Linux1) + Terminal (Linux2)
+- xkb files (Linux1) + Terminal (Linux2)
+
+In case there are questions, feel free to ask, I'll try to respond in a satisfactory way.
+
+Created with passion and consciousness to provide the best ergonomics experience with current keyboards, which are in no way ergonomic if you think about it. <3
