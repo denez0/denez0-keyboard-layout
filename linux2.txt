@@ -1,0 +1,4 @@
+cd ~/.config/
+mkdir xkb
+cd xkb/
+setxkbmap us-custom us -option -print | xkbcomp -I. - $DISPLAY
