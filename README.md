@@ -3,7 +3,9 @@ Look
 ![Image](https://github.com/user-attachments/assets/b4c15546-5878-43be-9fe3-eca1eb52fe72)
 
 17 keys are remapped relative to the standard QWERTY layout, so it should be relatively easy to change to denez0 (Deh-Nee-Zow/dɛnˈiːzə͡ʊ) layout. 
+
 It took me 1 month of an hour a day practice to start typing really fast. 
+
 I have used it only on Windows and Linux, so there are some ways which worked for me:
 
 Windows
