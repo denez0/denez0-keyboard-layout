@@ -15,7 +15,7 @@ under
 
 1.
 partial alphanumeric_keys
-xkb_symbols "custom1" {
+xkb_symbols "denez0" {
 
     name[Group1]= "English (custom)";
 
@@ -75,7 +75,7 @@ xkb_symbols "custom1" {
 2.
 	<variant>
     <configItem>
-      <name>custom1</name>
+      <name>denez0</name>
       <description>English (custom)</description>
     </configItem>
   </variant>
