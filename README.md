@@ -1,7 +1,6 @@
 Look 
 
 ![Image](https://github.com/user-attachments/assets/b38fe913-7697-4586-a66f-87cfce80b952)
-![Image](https://github.com/user-attachments/assets/b4c15546-5878-43be-9fe3-eca1eb52fe72)
 
 17 keys are remapped relative to the standard QWERTY layout, so it should be relatively easy to change to the denez0 layout. 
 
