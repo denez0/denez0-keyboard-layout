@@ -1,4 +1,5 @@
-Look 
+Edit: this project is deprecated. Tried colemak-DH-wide, which felt better (esp. due to it being wide). Switched to Canary (Z remapped to X to better suit Polish), using it ever since. Voice input is underestimated, tho.
+
 
 ![Image](https://github.com/user-attachments/assets/b38fe913-7697-4586-a66f-87cfce80b952)
 
